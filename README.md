@@ -1,7 +1,5 @@
 ![](img2.png)
 
-<a href="/balupton/readme-rounded-images/blob/main/balupton"><img src="img2.png" alt="@balupton" style="max-width:99%;"></a>
-
 
 # I'm Qiick.
 A Dutch boy thats want te become a Software Developer.
