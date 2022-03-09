@@ -1,4 +1,4 @@
-![](https://cdn.discordapp.com/attachments/926161539550019727/938787470617755688/Add_a_heading_4.png)
+![](img2.png)
 
 
 # I'm Qiick.
