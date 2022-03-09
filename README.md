@@ -1,8 +1,7 @@
 ![](img2.png)
 
-<kbd>
-  <img src="img2.png">
-</kbd>
+<a href="/balupton/readme-rounded-images/blob/main/balupton"><img src="img2.png" width="40" height="40" alt="@balupton" style="max-width:100%;"></a>
+
 
 # I'm Qiick.
 A Dutch boy thats want te become a Software Developer.
