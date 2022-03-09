@@ -1,5 +1,8 @@
 ![](img2.png)
 
+<kbd>
+  <img src="img2.png">
+</kbd>
 
 # I'm Qiick.
 A Dutch boy thats want te become a Software Developer.
