@@ -1,6 +1,6 @@
 ![](img2.png)
 
-<a href="/balupton/readme-rounded-images/blob/main/balupton"><img src="img2.png" width="2500" height="2500" alt="@balupton" style="max-width:100%;"></a>
+<a href="/balupton/readme-rounded-images/blob/main/balupton"><img src="img2.png" alt="@balupton" style="max-width:100%;"></a>
 
 
 # I'm Qiick.
