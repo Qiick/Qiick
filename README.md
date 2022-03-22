@@ -16,3 +16,6 @@ I use mostly VS Code, it's free and it's a usefull tool. I use it mostly to conn
 Sometimes i use IntelliJ IDEA for some projects on my pc.
 
 I use cloudflare for my domain, because of the Proxy function. It's a handy tool to easly hide the ip-adress of an server. And setting up DNS records and making SSL certificates.
+
+![github stats](https://github-readme-stats.vercel.app/api?username=qiick&show_icons=true&theme=graywhite&hide_title=1)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=qiick&theme=graywhite&hide_langs_below=1)
