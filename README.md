@@ -1,6 +1,3 @@
-![](img1.png)
-
-
 # I'm Brian or otherwise know as Qiick
 I'm a somebody on the internet that wants to become a Software Developer.
 On this moment in understand a lot of things, but i'm still learning. 
