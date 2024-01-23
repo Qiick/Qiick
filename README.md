@@ -1,1 +1,2 @@
-## Hoi ik ben Brian en ik ga stoppen met deze opleiding
+## Ik ben Brian Scheenaart
+Een Nederlandse jongen met een passie voor alles met techniek. 
